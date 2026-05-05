@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Marc Bernard",
-  "repository": "https://github.com/mbtools/verdaccio-auth-foo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbtools/verdaccio-auth-foo.git"
+  },
   "license": "MIT"
 }
