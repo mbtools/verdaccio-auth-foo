@@ -1,0 +1,12 @@
+{
+  "name": "verdaccio-auth-foo",
+  "version": "1.0.0",
+  "description": "This is a dummy verdaccio auth plugin (not scoped)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Bernard",
+  "repository": "https://github.com/mbtools/verdaccio-auth-foo",
+  "license": "MIT"
+}
